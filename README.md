@@ -23,5 +23,7 @@
 ## dir structure ##
 
 assets : for images or other static files
+
 css    : css file here
+
 scss   : scss and sass file here(compile to css file and copy to dist/css/ when build this package)
